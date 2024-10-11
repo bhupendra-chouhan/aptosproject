@@ -63,7 +63,7 @@ The contract consists of two primary functions:
 
 ### Example Usage
 
-```rust
+```
 // Store a student's identity
 store_student(&signer, 12345, b"John Doe");
 
