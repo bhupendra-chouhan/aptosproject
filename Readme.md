@@ -30,6 +30,12 @@ The contract consists of two primary functions:
 2. **verify_student**:
    - Inputs: The signer's account.
    - Verifies the student’s identity by checking if the student data exists for the provided account.
+  
+## Smartcontract Deployment Details:
+Deployed address: 0xb09a13f6cc285f82d2ab65f3b4e48bb80832ef1008e08f315a661f8a4a109d22
+Screenshot:
+![image](https://github.com/user-attachments/assets/2899bc7a-3d00-461a-8db4-9932a5d90722)
+
 
 ## Future Scope
 
