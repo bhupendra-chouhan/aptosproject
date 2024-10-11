@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-StudentIdentityVerification = '0x15b2873d8d75d4c4a2717c5054aa8195e2db87694effeab3fbbdeeb5a8ffd103'
+StudentIdentityVerification = '0x5cbfd3a6a5ec5c0d9bc275b4a1bf1547a72119ca5990bf40b499bedfe0b8e7c0'
 [dev-addresses]
 
 [dependencies.AptosFramework]
